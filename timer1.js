@@ -17,8 +17,3 @@ for (let char of args) {
 
 }
 
-bshvbhdsbvhsbvsbv
-svsvjsbvksfabk
-
-
-n
